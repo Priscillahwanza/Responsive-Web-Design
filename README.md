@@ -9,5 +9,5 @@ HTML forms by building a Registration Form
 CSS Box model by Building a Rothko Painting
 CSS flexbox with a photo Gallery
 and many others various topics and projects.
-By completing the entire 300hrs course I was able to gain a cerficate and enormous skills in HTML and CSS that I am happy to share.
+By completing the entire 300hrs course I was able to gain a certificate and enormous skills in HTML and CSS that I am happy to share.
 
